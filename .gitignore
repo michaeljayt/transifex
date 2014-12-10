@@ -30,3 +30,5 @@ transifex/site_media/static
 htmlcov/*
 .coverage
 .*.swp
+
+*.mo
